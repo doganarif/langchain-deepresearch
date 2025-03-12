@@ -1,0 +1,12 @@
+# Core requirements
+langchain-core>=0.1.0
+aiohttp>=3.8.0
+asyncio>=3.4.3
+PyYAML>=6.0
+requests>=2.0.0
+
+# Optional dependencies - can be specified in setup.py as extras_require
+# langchain-openai>=0.0.1
+# langchain-anthropic>=0.0.1
+# langchain-google-genai>=0.0.1
+# langchain-huggingface>=0.0.1
